@@ -7,7 +7,7 @@
     <title>Página de teste da View Produto</title>
 </head>
 <body>
-    Apresentando o valor do Controller
+    Apresentando o valor do Controller para teste
     {{$valor}}
     {{$nome}}
 </body>
